@@ -1,0 +1,11 @@
+Simple sockets are api (application programming interface).
+Protocol-an agreement between programs to communicate.
+client <---------application protocol ------------> server
+webclient --application protocol--webServer
+ |                                       |
+ TCP   ------TCP protocol------- -------TCP
+ |                                       |
+ IP ----IP protocol--------------------- IP
+ |                                       |
+ Ethernet -----ethernet protocol-----Ethernet
+ 
